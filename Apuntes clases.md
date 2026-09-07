@@ -26,3 +26,10 @@ El número que hay que poner es el aspecto más dificil de la ciencia de datos.
 
 
 <img width="730" height="393" alt="image" src="https://github.com/user-attachments/assets/3ad83533-bc63-4c20-a634-ba1650f24274" />
+
+
+### Participantes en todo el proceso de ciclo de vida de Machine Learning
+* Analista de Machine Learning: hace analisis del problema y estudio de viabilidad
+* Ingeniero de Datos
+* Cientifico de Datos
+* MLOps
