@@ -45,7 +45,6 @@ FinOps es una disciplina que busca relacionar las decisiones financieras con el 
 La elección entre una solución on-premises y una solución en la nube depende principalmente del patrón de uso de la carga de trabajo. Los proyectos de investigación y desarrollo, o aquellos con cargas intermitentes y experimentales, pueden beneficiarse de la flexibilidad de la nube. En cambio, las cargas de trabajo sostenidas y predecibles pueden justificar una infraestructura propia.
 
 ## Optimización del uso de recursos
-
 El objetivo de la optimización de uso es reducir la cantidad de recursos consumidos sin afectar los resultados del proyecto. Algunas estrategias son:
 
 - **Right-sizing:** ajustar el tamaño de las instancias de cómputo para que coincidan con los requisitos reales de la carga de trabajo.
@@ -55,6 +54,7 @@ El objetivo de la optimización de uso es reducir la cantidad de recursos consum
 - **Control de bucles infinitos:** monitorear las aplicaciones para evitar ejecuciones innecesarias que aumenten los costos de inferencia y entrenamiento.
 
 ## Modelo de madurez de inteligencia artificial
+<img width="1398" height="712" alt="image" src="https://github.com/user-attachments/assets/2697bc10-0397-4a69-b413-67ffad5f6be2" />
 
 El modelo de madurez de IA presentado organiza a las organizaciones en cinco niveles, según el grado de adopción e integración de la inteligencia artificial:
 
